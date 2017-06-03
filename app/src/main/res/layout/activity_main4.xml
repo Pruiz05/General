@@ -74,9 +74,6 @@
 
         </TableRow>
 
-        <Button android:id="@+id/btnsig"
-            android:text="siguiente"/>
-
     </TableLayout>
 
 </android.support.constraint.ConstraintLayout>

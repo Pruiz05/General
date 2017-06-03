@@ -44,13 +44,6 @@
         tools:layout_editor_absoluteX="8dp"
         tools:layout_editor_absoluteY="101dp">
 
-        <Button
-            android:id="@+id/btnTablas"
-            android:layout_width="wrap_content"
-            android:layout_height="match_parent"
-            android:layout_weight="1"
-            android:text="Tablas" />
-
     </LinearLayout>
 
 </android.support.constraint.ConstraintLayout>

@@ -10,20 +10,20 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity android:name=".MainActivity">
-
-        </activity>
-        <activity android:name=".Main2Activity" />
-        <activity android:name=".Main3Activity" />
-        <activity android:name=".Main4Activity" />
-        <activity android:name=".Main5Activity" />
-        <activity android:name=".ListViewActivity" />
-        <activity android:name=".ScrollVIewActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".Main2Activity" />
+        <activity android:name=".Main3Activity" />
+        <activity android:name=".Main4Activity" />
+        <activity android:name=".Main5Activity" />
+        <activity android:name=".ListViewActivity" />
+        <activity android:name=".ScrollVIewActivity" />
+        <activity android:name=".ImageViewActivity" />
+        <activity android:name=".EditTextActivity"></activity>
     </application>
 
 </manifest>

@@ -17,10 +17,11 @@ Button btn;
         btn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent intent = new Intent(MainActivity.this, ListViewActivity.class);
+                Intent intent = new Intent(MainActivity.this, ScrollVIewActivity.class);
                 startActivity(intent);
             }
         });
+
 
 
         //btnTablas

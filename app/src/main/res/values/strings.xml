@@ -1,6 +1,10 @@
 <resources>
-    <string name="app_name">My Application</string>
+    <string name="app_name">Android Studio</string>
     <string name="name">Pedro Luis Ruiz</string>
-
+    <!--TEXTOACTIVIDADES -->
+    <string name="lin_lay">Linear Layout</string>
+    <string name="p_table">Table Layout</string>
+    <string name="f_layout">Frame Layout</string>
+    <string name="lis">List View</string>
 
 </resources>
